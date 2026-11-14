@@ -1,0 +1,16 @@
+{
+  name = "Telepaint",
+  hosapi = false,
+  id = "telepaint",
+  title = "Telepaint",
+  dependancy = true,
+  files = {
+    {
+      "main.lua",
+      "https://pastebin.com/raw/V0gqrj2v",
+    },
+  },
+  exe = "/programs/telepaint/main.lua",
+  deplocation = "/apis/",
+  config = {},
+}
